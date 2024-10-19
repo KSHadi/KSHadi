@@ -1,13 +1,16 @@
 ## Hi there 👋
-Mitt namn är **Kabas Hadi**, jag är Nationalekonom och studerar till att bli Webbutvecklare.
-Jag älskar att:
+
+<p>Mitt namn är **Kabas Hadi**, jag är Nationalekonom och studerar till att bli Webbutvecklare.</p>
+
+<p>Jag älskar att:</p>
+
 * :airplane: Resa
 * :seedling: Odla grönsaker
 * :swimmer: Simma
 * :walking: Gå långa promenader
 
-Min email :mailbox: : Hadikabas@gmail.com
-Min studentemail :email: : kaha2001@student.miun.se
+<p>Min email :mailbox: : Hadikabas@gmail.com <br>
+Min studentemail :email: : kaha2001@student.miun.se</p>
 
 
 
