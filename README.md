@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p>Mitt namn är **Kabas Hadi**, jag är Nationalekonom och studerar till att bli Webbutvecklare.</p>
+Mitt namn är **Kabas Hadi**, jag är Nationalekonom och studerar till att bli Webbutvecklare.
 
 <p>Jag älskar att:</p>
 
