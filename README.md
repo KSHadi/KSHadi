@@ -1,4 +1,14 @@
 ## Hi there 👋
+Mitt namn är **Kabas Hadi**, jag är Nationalekonom och studerar till att bli Webbutvecklare.
+Jag älskar att:
+* :airplane: Resa
+* :seedling: Odla grönsaker
+* :swimmer: Simma
+* :walking: Gå långa promenader
+
+Min email :mailbox: : ==Hadikabas@gmail.com==
+
+
 
 <!--
 **KSHadi/KSHadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
