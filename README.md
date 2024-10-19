@@ -9,8 +9,9 @@ Mitt namn är **Kabas Hadi**, jag är Nationalekonom och studerar till att bli W
 * :swimmer: Simma
 * :walking: Gå långa promenader
 
-<p>:mailbox: [Min Email](mailto:Hadikabas@gmail.com) <br>
-:email: [Min Student Email](mailto:kaha2001@student.miun.se)</p>
+:mailbox: [Min Email](mailto:Hadikabas@gmail.com)
+
+:email: [Min Student Email](mailto:kaha2001@student.miun.se)
 
 
 
