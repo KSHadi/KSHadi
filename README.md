@@ -6,7 +6,9 @@ Jag älskar att:
 * :swimmer: Simma
 * :walking: Gå långa promenader
 
-Min email :mailbox: : ==Hadikabas@gmail.com==
+Min email :mailbox: : Hadikabas@gmail.com
+Min studentemail :email: : kaha2001@student.miun.se
+
 
 
 
